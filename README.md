@@ -14,6 +14,10 @@ Chaque semaine, un ensemble de vidéos du MOOC sera à regarder avant le premier
 
 Chaque semaine, un devoir surveillé sera proposé en tout début de séance, et portant sur le contenu du cours précédent.
 
+Chaque séance est associée à un répertoire portant le même nom que celui du programme (ci-après), et dans lequel vous trouverez le programmé détaillé de la séance, le matériel et les exercices qui seront pratiqués lors de la séance.
+
+Avant chaque séance, ils vous est demandé de lire et suivre les instructions (vidéos à regarder, exercices...) du fichier **preparation.md** de chaque séance. Cette préparation est obligatoire et influera nécessairement sur votre compréhension du cours, des exercices ainsi que sur les notes au DS.
+
 
 ## Évaluation
 
@@ -26,7 +30,7 @@ Chaque semaine, un devoir surveillé sera proposé en tout début de séance, et
 
 ## Programme
 
-- **[S01] - 12/05/2025.**
+- **[S01] - 12/05/2025.** [Introduction : Conception et Modélisation Objet avec Pharo](/S01%20-%20Introduction%20:%20Conception%20et%20Modélisation%20Objet%20avec%20Pharo/S01-1-preparation.md)
 - **[S02] - 16/05/2025.**
 - **[S03] - 20/05/2025.**
 - **[S04] - 27/05/2025.**
