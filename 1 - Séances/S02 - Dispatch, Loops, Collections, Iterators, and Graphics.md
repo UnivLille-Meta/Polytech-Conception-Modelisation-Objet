@@ -37,9 +37,6 @@ Préparation:
     - slides :
         - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S07-Basic-ArraySetOrderedCollection.pdf
         - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S09-Iterators.pdf
-- Avez vous vraiment compris `super` ?
-    - vidéo : https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S8.mp4
-    - slides : https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-8-Essence-06-DidYouUnderstandSuper.pdf
 
 ## Travaux pratiques
 
