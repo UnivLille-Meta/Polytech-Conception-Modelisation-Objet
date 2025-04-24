@@ -42,7 +42,26 @@ Suivre les vidéos introductives suivantes :
 
 ## Travaux pratiques
 
-1) Prise en main de Pharo
-    - a
-    - b
-2) a 
+Les objectifs de ces exercices sont de se familiariser avec le langage de programmation Pharo.  
+Cette étape est importante pour suivre correctement le reste des cours, qui deviendront progressivement plus complexes et supposeront que vous maîtrisez un minimum le langage.
+
+Bien entendu, il ne vous sera pas demandé de connaître des détails obscurs ou spécifiques à l’implémentation du langage. 
+Cependant, vous devrez apprendre à écrire des programmes simples incluant :
+
+- Des classes et des méthodes,  
+- la syntaxe, la priorité des opérateurs,  
+- les affectations, les structures conditionnelles et les boucles,  
+- les tests.
+
+Cela vous permettra également de commencer à *lire* du code, ce qui sera un thème récurrent tout au long de ce cours.
+Nous aurons besoin de lire et de comprendre du code que nous n’avons pas écrit.  
+Et nous devons le faire efficacement.
+Pour cela, il faut d’abord éliminer les obstacles élémentaires, comme la compréhension de la syntaxe. 
+Par la suite, nous apprendrons à prendre un peu de recul et à accorder moins d’importance aux détails.
+
+Les exercices (en anglais) sont à faire dans l'ordre :
+
+1) [Installer Pharo](/2%20-%20Exercices/E01%20-%20installing-pharo.md)
+2) [Prof Stef](/2%20-%20Exercices/E02%20-%20Prof%20Stef.md)
+3) [Classes, méthodes et tests](/2%20-%20Exercices/E03%20-%20Writing%20classes,%20methods,%20and%20tests.md)
+4) [Un langage dédié simple](/2%20-%20Exercices/E04%20-%20Crafting%20a%20DSL.md)
