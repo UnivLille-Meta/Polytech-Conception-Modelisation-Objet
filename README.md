@@ -10,6 +10,10 @@ Le cours est composé de plusieurs activités :
 - Des cours magistraux avec discussions autour des vidéos du MOOC
 - Des travaux pratiques
 
+Chaque semaine, un ensemble de vidéos du MOOC sera à regarder avant le premier cours. Nous reviendrons sur le contenu des vidéos à chaque début de cours, pour clarifier et consolider les notions théoriques et conceptuelles. Puis, nous appliquerons ces notions au travers d'exercices pratiques guidés et exploratoires.
+
+Chaque semaine, un devoir surveillé sera proposé en tout début de séance, et portant sur le contenu du cours précédent.
+
 ## Évaluation
 
 - 4 devoirs surveillés portant sur le contenu et les exercices du cours (50% de la note basée sur les 3 meilleurs DS)
