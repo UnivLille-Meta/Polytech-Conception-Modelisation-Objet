@@ -14,12 +14,12 @@ Suivre les vidéos introductives suivantes :
     - MOOC Pharo semaine 2 : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/ : C019SD-W2-S1 à S4 (6 vidéos, environ 30 minutes)  
 - Tests : 
     - Semaine 5 du MOOC Pharo : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week5/C019SD-W5-S6-v3.mp4 (1 vidéo, environ 10 minutes)
-    - Module 2-1 du Advanced OO Mooc (en anglais) [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org) : M2-1, M2-3 et M2-4 (3 vidéos, environ 30 minutes)
+    - Module 2-1 du Advanced OO Mooc (en anglais) [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org/#module2) : M2-1, M2-3 et M2-4 (3 vidéos, environ 30 minutes)
     
 
 ## Cours
 
-## Objectifs
+### Objectifs
 
 - Introduction à la conception et modélisation de systèmes à objets
     - Modèles objets, classes, objects, méthodes
@@ -32,6 +32,17 @@ Suivre les vidéos introductives suivantes :
 
 ### Matériel pédagogique
 
-- Slides du cours https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/
+- Introduction à Pharo https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/
+- Classes, messages, méthodes https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/
+- Tests :
+    - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S06-SUnit.pdf
+    - [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org/#module2)
+- Démonstration de l'environnement pour illustrer le cours (non disponible en ligne, notes à prendre en séance)
+
 
 ## Travaux pratiques
+
+1) Prise en main de Pharo
+    - a
+    - b
+2) a 
