@@ -26,6 +26,13 @@ Chaque semaine, un devoir surveillé sera proposé en tout début de séance, et
 
 ## Programme
 
+- **[S01] - 12/05/2025.**
+- **[S02] - 16/05/2025.**
+- **[S03] - 20/05/2025.**
+- **[S04] - 27/05/2025.**
+- **[S05] - 10/06/2025.**
+- **[S06] - 13/06/2025.**
+
 ## Matériel pédagogique
 
 
