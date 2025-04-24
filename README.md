@@ -14,6 +14,7 @@ Chaque semaine, un ensemble de vidéos du MOOC sera à regarder avant le premier
 
 Chaque semaine, un devoir surveillé sera proposé en tout début de séance, et portant sur le contenu du cours précédent.
 
+
 ## Évaluation
 
 - 4 devoirs surveillés portant sur le contenu et les exercices du cours (50% de la note basée sur les 3 meilleurs DS)
@@ -24,3 +25,12 @@ Chaque semaine, un devoir surveillé sera proposé en tout début de séance, et
 - 1 TP noté de 4 heures (séance du 13 juin 2025, de 13h45 à 18h)
 
 ## Programme
+
+## Matériel pédagogique
+
+
+La totalité du contenu électronique du cours se trouve en ligne :
+
+- Le Mooc Pharo (en Français) : https://mooc.pharo.org/
+- Le Mooc "Advanced Object-Oriented Design" (en Anglais) : https://advanced-design-mooc.pharo.org
+- Les exercices sont, sauf indication, ici (en anglais) [http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/2024-04-01-CompanionExercise.pdf](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/2024-04-01-CompanionExercise.pdf)
