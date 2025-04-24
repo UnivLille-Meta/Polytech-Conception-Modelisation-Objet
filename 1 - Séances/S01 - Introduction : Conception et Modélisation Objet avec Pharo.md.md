@@ -32,8 +32,9 @@ Suivre les vidéos introductives suivantes :
 
 ### Matériel pédagogique
 
-- Introduction à Pharo https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/
-- Classes, messages, méthodes https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/
+- Introduction à Pharo : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/
+- Classes, messages, méthodes : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/
+- Concepts objet : [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org/#module1)
 - Tests :
     - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S06-SUnit.pdf
     - [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org/#module2)
@@ -63,5 +64,7 @@ Les exercices (en anglais) sont à faire dans l'ordre :
 
 1) [Installer Pharo](/2%20-%20Exercices/E01%20-%20installing-pharo.md)
 2) [Prof Stef](/2%20-%20Exercices/E02%20-%20Prof%20Stef.md)
-3) [Classes, méthodes et tests](/2%20-%20Exercices/E03%20-%20Writing%20classes,%20methods,%20and%20tests.md)
-4) [Un langage dédié simple](/2%20-%20Exercices/E04%20-%20Crafting%20a%20DSL.md)
+3) [Syntaxe Pharo](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/Exo-Expressions-LiteralObjects-FR.pdf)
+4) [Challenge Zn](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/Challenge0-FR.pdf)
+5) [Classes, méthodes et tests](/2%20-%20Exercices/E03%20-%20Writing%20classes,%20methods,%20and%20tests.md)
+6) [Un langage dédié simple](/2%20-%20Exercices/E04%20-%20Crafting%20a%20DSL.md)
