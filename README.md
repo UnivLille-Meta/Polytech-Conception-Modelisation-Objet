@@ -31,11 +31,11 @@ Avant chaque séance, ils vous est demandé de lire et suivre les instructions (
 ## Programme
 
 - **[S01] - 12/05/2025.** [Introduction : Conception et Modélisation Objet avec Pharo](/S01%20-%20Introduction%20:%20Conception%20et%20Modélisation%20Objet%20avec%20Pharo/S01-1-preparation.md)
-- **[S02] - 16/05/2025.**
-- **[S03] - 20/05/2025.**
-- **[S04] - 27/05/2025.**
-- **[S05] - 10/06/2025.**
-- **[S06] - 13/06/2025.**
+- **[S02] - 16/05/2025.** [Dispatch, Loops, Collections, Iterators and Graphics](/1%20-%20Séances/S02%20-%20Dispatch,%20Loops,%20Collections,%20Iterators,%20and%20Graphics.md)
+- **[S03] - 20/05/2025.** [Double Dispatch](/1%20-%20Séances/S03%20-%20More%20Double%20Dispatch%20and%20Bloc%20Animations.md)
+- **[S04] - 27/05/2025.** [Delegation and Null Checks](/1%20-%20Séances/S04%20-%20Delegation,%20Null%20Checks,%20and%20Super%20again.md)
+- **[S05] - 10/06/2025.** [Couplage, Encapsulation, Sous-Typage et Typage](/1%20-%20Séances/S05%20-%20Coupling,%20Encapsulation,%20Subclassing%20and%20Typing.md)
+- **[S06] - 13/06/2025.** [TP noté (évaluation) finale](/1%20-%20Séances/S06%20-%20TP%20noté.md)
 
 ## Matériel pédagogique
 
