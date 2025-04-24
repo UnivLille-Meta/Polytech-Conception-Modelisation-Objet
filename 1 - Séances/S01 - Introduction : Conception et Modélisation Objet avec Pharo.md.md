@@ -3,8 +3,6 @@
 
 ## Préparation 
 
-**Date** Lundi 12 mai 2025
-
 ### Contenu préparatoire à étudier **avant** le cours
 
 Suivre les vidéos introductives suivantes :
