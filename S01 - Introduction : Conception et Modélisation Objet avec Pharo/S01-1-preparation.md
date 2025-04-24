@@ -6,5 +6,10 @@
 
 Suivre les vidéos introductives suivantes :
 
-- Module 0 du Mooc [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org) : M0-1 à M0-8 (8 vidéos, environ 1 heure)
-- Module 2 du Mooc [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org) : M2-1, M2-3 et M2-4 (3 vidéos, environ 30 minutes)
+- Conception objet et Pharo :
+    - MOOC Pharo semaine 1 : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/ : C019SD-W1-S1 à S6 (6 vidéos, environ 30 minutes)  
+    - MOOC Pharo semaine 2 : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/ : C019SD-W2-S1 à S4 (6 vidéos, environ 30 minutes)  
+- Tests : 
+    - Semaine 5 du MOOC Pharo : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week5/C019SD-W5-S6-v3.mp4 (1 vidéo, environ 10 minutes)
+    - Module 2-1 du Advanced OO Mooc (en anglais) [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org) : M2-1, M2-3 et M2-4 (3 vidéos, environ 30 minutes)
+    
