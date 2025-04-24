@@ -30,12 +30,17 @@ Suivre les vidéos introductives suivantes :
 
 ### Matériel pédagogique
 
-- Introduction à Pharo : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/
-- Classes, messages, méthodes : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/
+- Introduction à Pharo : 
+    - vidéos : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/
+    - slides : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/
+- Classes, messages, méthodes :
+    - vidéos : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week2/
+    - slides : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/
 - Concepts objet : [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org/#module1)
 - Tests :
-    - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S06-SUnit.pdf
-    - [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org/#module2)
+    - vidéo : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week5/C019SD-W5-S6-v3.mp4
+    - slides : https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S06-SUnit.pdf
+    - vidéos + slides : [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org/#module2)
 - Démonstration de l'environnement pour illustrer le cours (non disponible en ligne, notes à prendre en séance)
 
 
