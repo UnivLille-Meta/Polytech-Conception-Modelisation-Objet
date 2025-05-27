@@ -31,7 +31,9 @@ You are going to build the following widget:
 To to that, follow the [Bloc widget tutorial](/4%20-%20Additional%20resources/bloc/bloc-widget-tutorial.md).
 
 ## Exercise 17-10-4: A animated sprite
-Resource: ![a 100x100 sprite example](https://github.com/ycorre/molecular/blob/master/res/action/characters/e001Sp.png)
+Resource (available at https://github.com/ycorre/molecular/blob/master/res/action/characters/e001Sp.png): 
+
+![a 100x100 sprite example](https://github.com/ycorre/molecular/blob/master/res/action/characters/e001Sp.png)
 
 Properties: 
 - width: 50
