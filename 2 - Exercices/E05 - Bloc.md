@@ -26,6 +26,7 @@ Do not hesitate to explore the various effects and their configuration!
 
 ## Exercise 17-10-3: A first widget
 You are going to build the following widget: 
+
 ![An integer input widget.](/4%20-%20Additional%20resources/bloc/figures/input.png)
 
 To to that, follow the [Bloc widget tutorial](/4%20-%20Additional%20resources/bloc/bloc-widget-tutorial.md).
